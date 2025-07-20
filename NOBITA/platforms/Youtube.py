@@ -9,8 +9,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from Clonify.utils.database import is_on_off
-from Clonify.utils.formatters import time_to_seconds
+from NOBITA.utils.database import is_on_off
+from NOBITA.utils.formatters import time_to_seconds
 
 
 def cookies():
